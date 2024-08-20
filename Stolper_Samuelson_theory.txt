@@ -1,0 +1,8 @@
+Stolper-Samuelson Theorem Predictions:
+
+Rich Countries: As rich countries engage in trade, they will specialize in capital-intensive production. According to the theorem, this leads to an increase in the return to capital and a decrease in wages since the demand for capital increases while the demand for labor falls.
+Poor Countries: Conversely, poor countries, which are labor-abundant, will see an increase in wages as they specialize in labor-intensive production. The returns to capital in these countries will decrease due to reduced demand for capital.
+
+Distribution of Gains from Trade:
+
+The theorem suggests that within rich countries, the gains from trade will accrue primarily to capital owners, while in poor countries, the labor force will benefit more. This is because trade reinforces the income of the factor of production that is abundant (capital in rich countries and labor in poor countries).
