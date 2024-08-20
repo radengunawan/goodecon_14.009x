@@ -1,0 +1,66 @@
+
+
+The Stolper-Samuelson Theorem addresses distributional issues by 
+
+explaining how international trade affects the relative earnings of 
+
+different factors of production (capital and labor) within a country. 
+
+Specifically, the theorem predicts that trade benefits the owners of the factor that is 
+
+abundant in a country and harms the owners of the factor that is scarce.
+
+How It Works:
+
+1. Assumption:
+   - The theorem assumes two countries: one that is capital-abundant (rich country) and one that is labor-abundant (poor country).
+   - Each country specializes in producing goods that intensively use its abundant factor. 
+     The rich country specializes in capital-intensive goods, while the poor country specializes in labor-intensive goods.
+
+2. Effect on Factor Prices:
+   - When trade occurs, the demand for the abundant factor in each country increases, 
+   leading to higher returns for that factor. 
+   Conversely, the demand for the scarce factor decreases, leading to lower returns for that factor.
+
+Example:
+Scenario:
+- Country A (Rich): Capital-abundant, specializes in producing machinery (capital-intensive).
+- Country B (Poor): Labor-abundant, specializes in producing textiles (labor-intensive).
+
+Before trade:
+- In **Country A**, capital earns a return of 10%, and wages are $20 per hour.
+- In **Country B**, capital earns a return of 5%, and wages are $5 per hour.
+
+**After trade:**
+
+- **Country A** (Rich) exports machinery and imports textiles. 
+
+The demand for capital in Country A increases because it needs more machinery to export. 
+
+As a result, the return on capital in Country A increases from 10% to 15%. 
+
+However, since the country now imports textiles, the demand for domestic labor falls, and wages drop from $20 per hour to $15 
+
+per hour.
+
+- **Country B** (Poor) exports textiles and imports machinery. 
+The demand for labor in Country B increases as more textiles are produced for export, 
+causing wages to rise from $5 per hour to $8 per hour. 
+However, the return on capital in Country B falls from 5% to 3% because the country imports cheaper 
+machinery instead of producing it domestically.
+
+**Distributional Issues:**
+- **In Country A (Rich):** Capital owners benefit significantly from trade because their returns increase, 
+but workers suffer due to falling wages. This creates income inequality within the country, as the gains 
+from trade are not evenly distributed.
+
+- **In Country B (Poor):** Workers benefit from rising wages, but capital owners see a decrease in their returns, 
+leading to potential discontent among those who rely on capital income.
+
+### **Key Takeaway:**
+
+The Stolper-Samuelson Theorem highlights that while trade can increase overall economic efficiency (aggregate effect), 
+it also has significant distributional consequences. 
+The gains from trade are not shared equally within each country, leading to potential inequality. 
+This insight is crucial for policymakers, as it underscores the need to address the negative impacts on the groups that 
+lose out from trade, such as through retraining programs, social safety nets, or redistributive policies.
