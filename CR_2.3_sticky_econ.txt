@@ -1,0 +1,151 @@
+
+A **sticky economy** refers to an economic situation where adjustments to changes in the market, 
+
+such as shifts in supply, demand, prices, or wages, occur slowly or with difficulty. 
+
+This "stickiness" often results in prolonged periods of inefficiency or economic imbalance, where resources such as 
+
+labor or capital do not move freely to where they are most needed or productive.
+
+
+### Quantitative Example: Sticky Wages
+
+Let’s consider an example involving **sticky wages**:
+
+#### Scenario:
+- **Initial Condition:** A manufacturing company employs 100 workers at a wage of $20 per hour. 
+The company produces goods that sell for $10 each, and it can produce 1,000 goods per week.
+
+- **Shock:** Due to an increase in international competition, the demand for the company's goods drops, 
+causing the price to fall to $8 per unit.
+
+- **Efficient Adjustment:** In a perfectly flexible economy, the company would reduce wages to reflect the new market conditions. 
+If wages could instantly adjust, the company might lower wages to $18 per hour to maintain profitability.
+
+#### Sticky Economy Example:
+- **Sticky Wages:** However, due to wage contracts, regulations, or social norms, the company cannot immediately lower wages. 
+The wages remain stuck at $20 per hour.
+
+- **Impact:** Because the company is now paying more for labor than it can afford given the new product prices, 
+it must reduce its workforce or cut back on production to avoid losses. 
+Suppose the company decides to lay off 20 workers to maintain financial stability. 
+Production drops to 800 goods per week.
+
+- **Economic Consequence:** The layoff of 20 workers increases unemployment, reduces overall production, and decreases the income of 
+the workers who remain employed. The economy does not immediately adjust to the new equilibrium, leading to inefficiencies and potential 
+social issues, such as increased poverty or reduced consumer spending.
+
+#### Quantitative Breakdown:
+- **Before Shock:**
+  - Wage per worker: $20/hour
+  - Total wages per week: 100 workers * 40 hours/week * $20/hour = $80,000
+  - Revenue: 1,000 goods/week * $10/good = $10,000/week
+  - Profit: Revenue - Wages = $10,000 - $80,000 = -$70,000 (highly simplified for illustration)
+
+- **After Shock with Sticky Wages:**
+  - New product price: $8/good
+  - Revenue with reduced production: 800 goods/week * $8/good = $6,400/week
+  - Wages with layoffs: 80 workers * 40 hours/week * $20/hour = $64,000/week
+  - Profit: Revenue - Wages = $6,400 - $64,000 = -$57,600 (still unprofitable, leading to further economic issues)
+
+#### Summary:
+In this sticky economy, because wages cannot adjust downward quickly, the company is forced to reduce employment and production, 
+leading to higher unemployment and lower overall economic output. Over time, this can cause long-term economic inefficiencies, 
+as the resources (in this case, labor) are not being fully utilized.
+
+This example illustrates how "sticky" economic factors like wages can slow down the adjustment process in an economy, 
+leading to prolonged periods of unemployment and reduced economic output, especially in response to external shocks such as 
+changes in global trade dynamics.
+
+
+
+### 1. **Perfectly Flexible Economy**
+A **perfectly flexible economy** is an economic model in which prices, wages, and other economic variables can adjust 
+instantly and without friction to changes in supply, demand, or other external factors. 
+In this theoretical scenario, 
+there are no delays or obstacles that prevent the economy from reaching equilibrium quickly. 
+
+**Example:**
+Imagine a small, highly competitive agricultural market where the price of wheat can change daily based on supply and demand.
+
+ If there is a sudden increase in demand for wheat due to a new dietary trend, the price of wheat instantly rises. 
+
+Farmers, noticing the higher price, quickly increase their wheat production. At the same time, wages for laborers in the
+ wheat fields adjust upward as more workers are needed. 
+
+In this perfectly flexible economy, there would be no unemployment or excess supply because prices and wages adjust 
+
+so rapidly that all markets are in equilibrium at all times.
+
+**Real-World Limitation:** In reality, no economy is perfectly flexible because there are always some delays, 
+
+regulations, contracts, and other frictions that slow down adjustments.
+
+
+### 2. **Overall Economic Output**
+**Overall economic output** refers to 
+
+the total value of goods and services produced by an economy over a specific period. 
+
+This is often measured as Gross Domestic Product (GDP).
+
+
+
+**Example:**
+Consider a country with an economy largely based on manufacturing and agriculture. In a given year, the country produces 
+
+10 million cars, 5 million tons of wheat, and various other goods and services. The total monetary value of these goods 
+
+and services, when added up, gives us the country's overall economic output, or GDP.
+
+**Real Example:** 
+
+The GDP of the United States was approximately $25 trillion in 2022. 
+
+This figure represents the total market value of all finished goods and services produced within the country during that year, 
+
+including cars, houses, food, healthcare, education, and more.
+
+### 3. **Economic Inefficiencies**
+**Economic inefficiencies** occur when resources are not used in the most productive way possible, 
+
+leading to a loss of potential output. This can happen due to various reasons, including 
+
+monopolies, price controls, or labor market rigidities.
+
+**Example:**
+Imagine a country with a heavily regulated labor market where it's difficult for businesses to fire or hire workers quickly. 
+As a result, companies might keep workers in unproductive roles rather than shifting them to more productive tasks 
+or hiring new workers where they are needed most.
+
+**Real Example:**
+In many developing countries, agricultural subsidies keep farmers growing crops that are not competitive on the global market. 
+
+These subsidies create economic inefficiency because resources (land, labor, and capital) are tied up 
+
+in low-productivity activities rather than being used for more profitable ventures, like manufacturing or services. 
+
+### 4. **Global Trade Dynamics**
+**Global trade dynamics** refer to the patterns, trends, and relationships that influence the flow of goods, services, 
+
+and capital across international borders. These dynamics are shaped by factors like trade policies, comparative advantages, 
+
+exchange rates, and geopolitical events.
+
+**Example:**
+Consider the relationship between the U.S. and China. The U.S. imports a large number of consumer goods from China, 
+
+while China imports agricultural products like soybeans from the U.S. Changes in trade policies, such as tariffs 
+
+or trade agreements, can significantly affect these trade flows.
+
+**Real Example:**
+The U.S.-China trade war that started in 2018 significantly altered global trade dynamics. 
+
+The U.S. imposed tariffs on Chinese goods, leading to a reduction in imports from China. In response, China imposed tariffs 
+
+on U.S. goods, affecting American farmers and manufacturers. 
+
+This trade war led to shifts in global supply chains as companies sought to avoid tariffs by sourcing goods from other countries.
+
+These examples illustrate the complex interplay of economic concepts and their impacts on real-world scenarios.
