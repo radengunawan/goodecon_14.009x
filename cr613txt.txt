@@ -103,3 +103,210 @@ in "Good Economics for Hard Times," emphasizing
 the need for careful consideration and 
 policy intervention in these areas.
 
+
+TERMS:
+
+### 1. **Income Distribution:**
+
+**Definition:** Income distribution refers
+ to how a nation’s total earnings
+ are divided among its population.
+ It measures the equality or
+ inequality of income across
+ different groups or individuals 
+within an economy.
+
+**Example:** 
+- **Real Example:** The United 
+States has a significant level 
+of income inequality. 
+The top 1% of earners in the U.S.
+ hold more than 20% of the 
+country's total income, 
+while the bottom 50% hold 
+just around 13%.
+ This concentration of income 
+at the top contrasts with 
+more equal income distributions
+ in countries like Sweden, 
+where the income share of 
+the top 1% is much lower due 
+to higher taxes and social 
+welfare policies.
+
+**Quantitative Example:**
+- **Gini Coefficient:**
+ The Gini coefficient is 
+a measure of income inequality 
+where 0 represents perfect 
+equality and 1 represents
+ perfect inequality. 
+For example, if a country has 
+a Gini coefficient of 0.4,
+ it means there is a moderate 
+level of income inequality. 
+A higher Gini coefficient, 
+like 0.6, would indicate a 
+more unequal distribution of 
+income.
+
+
+### 2. **Economic Performance:**
+
+**Definition:** Economic
+ performance refers to how 
+well an economy is doing, 
+typically measured by indicators
+ such as
+ Gross Domestic Product (GDP), 
+employment rates, 
+and productivity levels.
+
+**Example:**
+- **Real Example:** 
+During the global financial 
+crisis of 2008-2009, many 
+countries experienced a 
+significant decline in economic
+ performance. 
+The United States saw a drop in 
+GDP of about 4.3%, and
+ unemployment rates rose from 
+5% in 2007 to 10% in 2009.
+ This decline in economic 
+performance had widespread 
+impacts on income levels, 
+business profitability, and 
+government revenues.
+
+**Quantitative Example:**
+- **GDP Growth:** If a country’s 
+GDP grows from $1 trillion to 
+$1.1 trillion over a year, it has 
+experienced a 10% increase in 
+economic performance. However, 
+if GDP falls from $1 trillion to 
+$950 billion, this indicates a 
+5% decline in economic performance,
+ likely reflecting negative 
+impacts on employment and income
+ levels.
+
+### 3. **Social Cohesion:**
+
+**Definition:** Social cohesion 
+refers to the strength of 
+relationships and the sense of
+ solidarity among members of a 
+community. High social cohesion 
+indicates a strong, united 
+community where individuals trust
+ and support each other.
+
+**Example:**
+- **Real Example:** 
+Scandinavian countries like 
+Norway, Sweden, and Denmark are 
+often cited as examples of high 
+social cohesion. These countries 
+have strong welfare systems, low 
+levels of inequality, and high 
+levels of trust among citizens. 
+This is reflected in high social 
+trust scores, where more than 
+70% of people in these countries
+ believe that "most people can 
+be trusted."
+
+**Quantitative Example:**
+- **Trust Index:** In a 
+hypothetical country with 
+low social cohesion, only 30% 
+of people might say they trust 
+their neighbors or the 
+government. In contrast, in a 
+country with high social cohesion,
+ this percentage might be as high
+ as 80%. Higher trust levels 
+typically correlate with lower 
+crime rates and greater political
+ stability.
+
+### 4. **Social Mobility:**
+
+**Definition:** Social mobility 
+refers to the ability of 
+individuals or families to move 
+up or down the economic ladder 
+within a society. It’s often
+ measured by the correlation 
+between parents’ and children’s
+ income levels.
+
+**Example:**
+- **Real Example:** In the United
+ States, social mobility is 
+relatively low compared to other 
+developed countries. For instance,
+ studies have shown that if a 
+child is born into a low-income 
+family, they have a lower chance 
+of moving into the middle or upper
+ class than in countries like 
+Canada or Denmark. In the U.S.,
+ approximately 42% of children 
+born into the bottom 20% of the 
+income distribution remain there 
+as adults.
+
+**Quantitative Example:**
+- **Intergenerational Income 
+Elasticity (IGE):** IGE measures 
+the relationship between parents'
+ and children’s incomes. 
+An IGE of 0.5 suggests that 50% of
+ economic status is passed from 
+one generation to the next, 
+indicating low social mobility. 
+A lower IGE, like 0.2, would 
+suggest higher mobility, as 
+less of the parent's economic 
+status is inherited by the 
+child.
+
+### 5. **Social Tension:**
+
+**Definition:** Social tension 
+refers to the presence of 
+conflict or stress within a 
+society, often resulting from 
+inequalities, economic hardship, 
+or cultural and political 
+divisions.
+
+**Example:**
+- **Real Example:** The Arab 
+Spring, which began in 2010, 
+is a prominent example of social 
+tension leading to widespread 
+unrest. Economic hardship, 
+unemployment, and government 
+corruption fueled protests across 
+the Middle East and North Africa, 
+leading to political instability,
+ regime changes, and, in some 
+cases, civil war.
+
+**Quantitative Example:**
+- **Protest and Crime Rates:** 
+Suppose a country experiences a 
+sharp rise in unemployment 
+from 5% to 15%. This economic 
+strain might lead to increased
+ social tension, reflected in a
+ 50% rise in protests and a 
+30% increase in crime rates over the following year.
+ Such data would quantitatively indicate
+ growing social tensions in
+ the country.
+
